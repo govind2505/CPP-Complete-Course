@@ -1,1 +1,1 @@
-# c-complete-course
+this repository covers all the topics from scratch in order to learn c++
