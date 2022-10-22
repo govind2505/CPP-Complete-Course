@@ -1,3 +1,4 @@
+//Program to calculate Simple Interest.
 #include <iostream>
 using namespace std;
 
